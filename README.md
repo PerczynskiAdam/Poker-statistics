@@ -1,5 +1,5 @@
 # Poker players classification 
-> This is my first python project builded to finish master degree
+> This is my first python project builded to finish master degree.
 > Project starts from gathering poker data as txt files and convert them to dataframe. Then calculate statisics of poker players, visualize them and create classification model with logistic regression.
 
 
